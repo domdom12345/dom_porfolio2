@@ -1,0 +1,5 @@
+# Dependencies and temporary files
+.system_generated/
+*.log
+.DS_Store
+Thumbs.db
